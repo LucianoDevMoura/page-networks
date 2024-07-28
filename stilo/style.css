@@ -119,8 +119,7 @@ body{
 
 /* seção main conteudo */
 .bg{
-    background-image: url(img/bg-gradient.png);
-    background-repeat: no repeat;
+    background-image: url(../img/bg-gradient.png);
     background-size: 100% cover;
     height: 635px;
 }
