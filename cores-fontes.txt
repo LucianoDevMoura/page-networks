@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+--font: "Urbanist", sans-serif;
+--cor-texto:#343F52;                                            
+--cor-destaque: #F857A6;
+--footer-color:rgb(52,63,82) ;
+
+conteúdo 
+1-
+Networking solutions  for
+worldwide communication
+We're a company that focuses on establishing
+long-term relationships with customers.
+
+explore Now
+=========================================
+2- 
+Our Features
+The service we offer is specifically
+designed to meet your needs.
+
+=========================================
+
+Software & Integration
+Duis mollis gravida commodo id luctus erat
+porttitor ligula, eget lacinia odio sem aget elit
+nullam quis risus eget.
+=========================================
+Network Security
+Duis mollis gravida commodo id luctus erat
+porttitor ligula, eget lacinia odio sem aget elit
+nullam quis risus eget.
+
+=========================================
+
+Cloud Services
+Duis mollis gravida commodo id luctus erat
+porttitor ligula, eget lacinia odio sem aget elit
+nullam quis risus eget.
+=========================================
+
+Wireless Networking
+Duis mollis gravida commodo id luctus erat
+porttitor ligula, eget lacinia odio sem aget elit
+nullam quis risus eget.
+=========================================
+
+IT Solutions
+Duis mollis gravida commodo id luctus erat
+porttitor ligula, eget lacinia odio sem aget elit
+nullam quis risus eget.
+=========================================
+
+Server Configuration
+Duis mollis gravida commodo id luctus erat
+porttitor ligula, eget lacinia odio sem aget elit
+nullam quis risus eget.
+
+=========================================
+
+img
+
+Have Perfect Control
+We bring solutions to make life
+easier for our customers.
+
+Cum sociis natoque penatibus et magnis dis parturient montes,
+nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas
+eget quam. Praesent commodo cursus magna, vel scelerisque nisl
+consectetur et. Vivamus sagittis lacus vel augue rutrum.
+
+o - Aenean quam ornare.
+Curabitur blandit.
+
+o -Etiam porta euismod
+malesuada mollis.
+
+o -Nullam quis risus eget urna
+mollis ornare.
+
+o -Vivamus sagittis lacus vel
+augue rutrum.
+
+footer
+
+© 2023 (Seu nome aqui)
+All rights reserved.
+
+
+
+
+coteudo portugues
+
+
+Soluções de Rede para Comunicação Mundial
+Somos uma empresa que se concentra em estabelecer relações de longo prazo com os clientes.
+
+Explore Agora
+Nossas Funcionalidades
+O serviço que oferecemos é especificamente projetado para atender às suas necessidades.
+
+=========================================
+
+Software e Integração
+O nosso software é desenvolvido para se integrar perfeitamente com os seus sistemas existentes, proporcionando eficiência e agilidade.
+
+=========================================
+
+Segurança de Rede
+Oferecemos soluções avançadas de segurança para proteger sua rede contra ameaças e garantir a integridade dos seus dados.
+
+=========================================
+
+Serviços de Nuvem
+Nossos serviços de nuvem permitem que você armazene, gerencie e acesse seus dados de forma segura e eficiente, de qualquer lugar.
+
+=========================================
+
+Redes Sem Fio
+Fornecemos soluções de redes sem fio que garantem uma conexão estável e rápida, ideal para ambientes corporativos e industriais.
+
+=========================================
+
+Soluções de TI
+Desenvolvemos soluções de TI personalizadas para atender às necessidades específicas da sua empresa, melhorando a produtividade e a eficiência.
+
+=========================================
+
+Configuração de Servidores
+Nossos especialistas em TI configuram e mantêm seus servidores para garantir desempenho, segurança e confiabilidade.
+
+=========================================
+
+
+3 parte 
+imagem aqui 
+
+Controle Perfeito
+Oferecemos soluções inovadoras que simplificam a vida dos nossos clientes.
+
+Com nossa tecnologia avançada e equipe dedicada, garantimos que suas necessidades sejam atendidas com a máxima precisão. Priorizamos a qualidade e a satisfação do cliente em cada etapa do processo.
+
+0 - Soluções personalizadas para cada cliente.
+o -Equipe especializada e pronta para ajudar.
+
+o- Tecnologias de ponta para máxima eficiência.
+
+o-Suporte contínuo e confiável.
+
+Rodapé
+© 2023 (Seu nome aqui)
+Todos os direitos reservados.

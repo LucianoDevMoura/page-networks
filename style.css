@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font);
+    border: 0;
+    text-decoration: none;
+}
+
+:root{
+    --font: "Urbanist", sans-serif;
+    --cor-texto:#343F52;                                            
+    --cor-destaque: #F857A6;
+    --footer-color:rgb(52,63,82) ;
+}
+
+
+h1,h2,h3,h4,p{
+    color: var(--cor-texto);
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+}
+
+.max-width{
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px 0;
+}
+
+.cabecalho button{
+    background-color: transparent;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.cabecalho .logotipo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.cabecalho .logotipo p{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.cabecalho .navegacao ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+}
+
+/*===============menu mobile==================== */
+
+.cabecalho #menuMobile{
+    display: none;
+}
+
+.cabecalho .navegacao .menu-mobile{
+    position: absolute;
+    top: 0;
+    right: 0;
+    flex-direction: column;
+    justify-content: start;
+    width: 250px;
+    background-color: #f5a7cc;
+    height: 100vh;
+    transition: 1s ease-in-out;
+    display: none;
+}
+
+.cabecalho .navegacao .menu-mobile li{
+    padding-top: 30px;
+}
+
+.cabecalho .navegacao .menu-mobile .fechar{
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+/*========================fim menu mobile================== */
+
+.cabecalho .navegacao ul li:hover{
+    color: var(--cor-destaque);
+}
+
+.cabecalho .navegacao ul li{
+    font-weight: 600;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.btn{
+    padding: 15px 20px;
+    border-radius: 10px;
+    background: var(--cor-destaque);
+    color: #fff;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+/* seção main conteudo */
+.bg{
+    background-image: url(img/bg-gradient.png);
+    background-repeat: no repeat;
+    background-size: 100% cover;
+    height: 635px;
+}
+
+main .content{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.content h1{
+    font-size: 46px;
+    line-height: 1.2;
+}
+
+.content .content-text p{
+    margin: 20px 0;
+    font-size: 23px;
+    line-height: 1.5;
+}
+
+.content .content-text{
+    padding:0 4%;
+}
+
+.content img{
+    margin-top: 50px;
+}
+
+.content .content-text span{
+    color: var(--cor-destaque);
+}
+
+/* ================seção cards========================== */
+.servicos{
+    padding: 50px;
+}
+
+.servicos h4{
+    font-size: 17px;
+    font-weight: 500;
+    color: #F857A6;
+    text-align: center;
+}
+
+.servicos h2{
+    font-size: 38px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.servicos .cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin: 70px 0;
+}
+
+.servicos .cards .card{
+    display: flex;
+    align-items: flex-start;
+    width: 400px;
+    height: 110px;
+}
+
+.servicos .cards .card img{
+    margin-right: 12px;
+}
+
+.servicos .cards .card .text h3{
+    font-size: 22px;
+    margin: 0 0 5px 0;
+}
+
+.servicos .cards .card .text p{
+    line-height: 1.5;
+    font-size: 17px;
+}
+
+/* seção */
+
+.control{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.control .img-two{
+    width: 50%;
+}
+
+.control .img-two img{
+    width: 80%;
+}
+
+.control .info{
+    width: 50%;
+    padding:0 5%;
+}
+
+.control .info h4{
+    margin-top: 50px;
+    color: #F857A6;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.control .info h2{
+    margin: 20px 0;
+    font-size: 38px;
+}
+
+.control .info p{
+    font-size: 17px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.control .info .list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.control .info .list li{
+    line-height: 1.5;
+    margin: 10px 0; 
+}
+
+/*  footer */
+.footer{
+    background-color: var(--footer-color);
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer p {
+    color: white;
+    font-size: 18px;
+}
+
+.footer a{
+    color:var(--cor-destaque) ;
+}
+

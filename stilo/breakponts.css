@@ -1,0 +1,99 @@
+@media screen and (max-width: 1060px) {
+    .cabecalho{
+        justify-content: space-between;
+    }
+    
+    .cabecalho button{
+        padding-right: 3%;
+    }
+
+    .cabecalho #menuMobile{
+        display: block;
+        padding-right: 2%;
+    }
+    .cabecalho .signup{
+        display: none;
+    }
+
+    .cabecalho .navegacao .nav-desktop{
+        display: none;
+    }
+
+    .cabecalho .navegacao .menu-mobile.ativo{
+        display: flex;
+        transition: .5s ease-in-out;
+    }
+    
+    .bg{
+        background-size: cover;
+        background-repeat: no repeat;
+    }
+    
+    .content{
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .content .img img{
+        width: 80%;
+    }
+    .content-text{
+        width: 80%;
+        text-align: center;
+    }
+
+    .content-text h1{
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 100px;
+        font-size:35px;
+    }
+
+    .servicos{
+        margin-top: 280px;
+    }
+    
+    .control{
+        flex-direction: column;
+
+        & .info{
+            width: 90%;
+            text-align: center;
+        }
+    }
+}
+
+@media screen and (max-width: 460px){
+    main .bg .content .content-text h1{
+        font-size: 25px;
+        width: 100%;
+    }
+
+    .servicos{
+        margin: 150px 0 0;
+    }
+
+    .servicos h2{
+        width: 100%;
+        font-size: 25px;
+    }
+
+    .servicos .cards{
+        gap: 65px;
+    }
+    
+    .control .info p{
+        font-size: 23px;
+    }
+
+    .control .info .list {
+        flex-direction: column;
+    }
+
+    .footer{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+    }
+}
